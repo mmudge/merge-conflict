@@ -12,4 +12,7 @@ I'll meet you over there, can't wait to get started!
 
 > There are already some Pull Requests open, you will work on those later in the course.
 
+new skiill 1
+new skill 2
+
 
