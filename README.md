@@ -13,3 +13,5 @@ I'll meet you over there, can't wait to get started!
 > There are already some Pull Requests open, you will work on those later in the course.
 
 
+im the best at being the best
+im also good at being good
